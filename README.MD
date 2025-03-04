@@ -1,6 +1,6 @@
 # Thess
 
-Why: [WIP]... 🚧 A
+Why: [WIP]... 🚧
 
 ### How to Get Started
 
@@ -20,7 +20,7 @@ Why: [WIP]... 🚧 A
 
 **Back-end:** Node, Typescript, Fastify, Postgresql?
 
-OBS: If you are new to ReactQuery, TanstackRouter or Fastify, i highly recommend taking a read into the oficial documentation for each one.
+OBS: If you are new to ReactQuery, TanstackRouter or Fastify, i highly recommend taking a read into the official documentation for each one.
 
 ### Author
 
