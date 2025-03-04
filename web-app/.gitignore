@@ -1,9 +1,9 @@
-# Local
+.env
+
 .DS_Store
 *.local
 *.log*
 
-# Dist
 node_modules
 dist/
 .vinxi
@@ -12,7 +12,5 @@ dist/
 .netlify
 .wrangler
 
-# IDE
-.vscode/*
 !.vscode/extensions.json
 .idea
